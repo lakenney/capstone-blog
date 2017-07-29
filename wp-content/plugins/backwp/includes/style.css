@@ -1,0 +1,110 @@
+#icon-backwp {background: url("images/logo.png") no-repeat;}
+.form-table td input{
+	width:400px;
+	}
+.form-table td input.test_connection{
+	width:100px;
+	}	
+.form-table td select.wide{
+	width:400px;
+	}	
+.form-table td textarea{
+    width:400px;
+}
+.form-table td span{
+    width:300px;
+}		
+.form-table td div.description{
+  width:400px;
+  margin: 0 0 10px 0;
+  padding: 0 0 0 3px;
+}	
+
+.metabox-holder .column-1 {
+	float: left;
+	width: 65%;
+}
+.metabox-holder .column-2 {
+	float: right;
+	width: 33%;
+}
+.metabox-holder .column-3 {
+	clear: both;
+	width: 100%;
+}
+.metabox-holder .column-backup-selection{
+  float: left;
+	width: 50%;
+}	
+.metabox-holder .column-api-key{
+  float: left;
+	width: 50%;
+}	
+/*
+* List Table CSS
+*/
+#backups-list{float:left; width: 100%;}	
+#backups-list td.name{
+	background: url("images/folder_blue_todos.png") no-repeat;
+	padding-left:20px;
+}
+#backups-list td.created-date{
+	background: url("images/clock.png") no-repeat;
+	padding-left:20px;
+}
+#backups-list td.size{
+	background: url("images/harddrive.png") no-repeat;
+	padding-left:20px;
+}
+#backups-list td.type span.backup-database-type{
+	background: url("images/database.png") no-repeat;
+	padding-left:25px;
+	width: 50px;
+	height: 30px;
+}
+#backups-list td.type span.backup-files-type{
+	background: url("images/document_pen.png") no-repeat;
+	padding-left:25px;
+	width: 50px;
+	height: 30px;
+}
+#backups-list td.type span.backup-full-type{
+	background: url("images/document-lined-pen.png") no-repeat;
+	padding-left:25px;
+	width: 50px;
+	height: 30px;
+}
+/*
+ * Backup Monitor CSS Style
+ */
+#backwp_monitor{width:700px;margin-top:20px;margin-bottom:10px;}
+#backwp_status{float:left;font-weight:bold;font-size:13px;}
+#backwp_loading{margin-left:5px;}
+#backwp_archive{float:right;font-weight:bold;}
+#backwp_archive_size{font-weight:bold;}
+
+#backwp_messages{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;font-size:13px;font-weight:normal;}
+
+/*
+ * Premium Extensions Table CSS Style
+ */
+table#extensions{
+	border-left: 1px solid #DEDEDE;
+	font-size:15px;
+} 
+ 
+#extensions th {
+	text-align: left;
+	border-top: 1px solid #DEDEDE;
+}
+
+#extensions td, #extensions th {
+	border-right: 1px solid #DEDEDE;
+	border-bottom: 1px solid #DEDEDE;
+	padding: 10px;
+}
+
+div#premium_extensions{font-size:15px;}
+p#premium_notes{font-size:15px;}
+
+ 
