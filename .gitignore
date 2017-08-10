@@ -85,8 +85,14 @@ wp-content/plugins/
 /sitemap.xml.gz
 
 ### My PDF files to be added via FTP ###
+CapstoneProposalDigitalMedia-Lucille Kenney.pdf
 CapstoneProposalDigitalMedia-LucilleKenney.pdf
 makerspace-events-mockup-notes.pdf
+v1-makerspaceevents-mockup-tester.pdf
+v1-Tester-UserTasks.pdf
+v2-makerspaceevents-mockup-tester.pdf
+v1-Tester-UserTasks.pdf
+
 
 
 # End of https://www.gitignore.io/api/osx,sass,wordpress,sublimetext
